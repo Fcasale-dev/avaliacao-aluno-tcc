@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.senai</groupId>
-	<artifactId>TCC_SENAI_ADAN</artifactId>
+	<artifactId>TCC_SENAI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TCC_SENAI_ADAN</name>
-	<description>TCC do senai refeito inteiramente por adan cardoso</description>
+	<name>TCC_SENAI</name>
+	<description>TCC do senai refeito em versao web</description>
 	<url />
 	<licenses>
 		<license />
